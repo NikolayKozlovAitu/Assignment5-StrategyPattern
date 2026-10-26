@@ -2,7 +2,7 @@
 
 - **Course:** Software Design Patterns 
 - **Student:** Kozlov Nikolay
-
+- **Group:** SE2529
 ---
 
 ## 1. Introduction
@@ -92,5 +92,5 @@ Applying the Strategy pattern decouples the context from algorithmic details, si
 
 ## 6. GitHub Repository
 
-Link: [https://github.com/<YOUR_GITHUB_USERNAME>/strategy-pattern-assignment](https://www.google.com/search?q=https://github.com/%3CYOUR_GITHUB_USERNAME%3E/strategy-pattern-assignment)
+Link: [(https://github.com/NikolayKozlovAitu/Assignment5-StrategyPattern)]
 
